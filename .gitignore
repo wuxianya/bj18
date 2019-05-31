@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Author:行者
+# Data:20190531
+
 # Distribution / packaging
 .Python
 build/
